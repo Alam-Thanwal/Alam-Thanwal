@@ -1,9 +1,10 @@
 
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://res.cloudinary.com/practicaldev/image/fetch/s--4P9jYY3q--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/jjkntk4salxdw0eybhej.gif))](https://alam-profile.netlify.app/)
+[![MasterHead](https://rabbitinfotech.com/wp-content/uploads/2021/03/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)](https://alam-profile.netlify.app/)
 <h1 align="center">Hi 👋, I'm Alamgeer Thanwal</h1>
 <h3 align="center">Full-Stack Developer on a Mission: Crafting Seamless Digital Solutions from Front-End Elegance to Back-End Mastery</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alam-thanwal&label=Profile%20views&color=0e75b6&style=flat" alt="alam-thanwal" /> </p>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
 - 🔭 I’m currently working on [Health-Care-Application](https://github.com/Alam-Thanwal)
 
